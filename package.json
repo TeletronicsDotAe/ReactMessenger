@@ -1,0 +1,19 @@
+{
+  "name": "ReactMessenger",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1",
+    "object-assign": "^4.0.1",
+    "react-native": "^0.17.0",
+    "react-native-gifted-messenger": "0.0.10",
+    "react-native-material-kit": "^0.2.5",
+    "react-native-router-flux": "^2.0.9",
+    "react-native-simple-store": "^0.1.0",
+    "react-native-swipeout": "^2.0.11"
+  }
+}
