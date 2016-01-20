@@ -1,7 +1,7 @@
 
 #ReactMessenger
 
-This is the product of an investigation on React Native.
+This is the product of an investigation on React Native. It's inspired by the messenger example in [flux](https://github.com/facebook/flux/)
 
 ![Architecture diagram](docs/images/ReactMessengerArchitecture.png)
 ![Delete message flow](docs/images/DeleteMessageFlow.png)
